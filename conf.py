@@ -1,1 +1,10 @@
-
+SID = "xxxxx"
+AUTH_TOKEN = "xxxxxx"
+FROM_NUMBER = "xxxxxxxx"
+TO_NUMBER = "+91xxxxxxxx"
+MAILGUN_API_KEY = xxxxxxxxx'
+SANDBOX_URL= 'sandboxxxxxxxxx.mailgun.org'
+SENDER_EMAIL = 'test@xxxxxxx'
+RECIPIENT_EMAIL = 'xxxxx
+API_KEY = "xxxxxxxx"
+DEVICE_ID = "BOLTxxxxxxx"
