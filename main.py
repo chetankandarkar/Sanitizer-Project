@@ -2,7 +2,6 @@ import conf
 from boltiot import Sms, Bolt
 import json, time
 
-
 mybolt = Bolt(conf.API_KEY, conf.DEVICE_ID)
 sms = Sms(conf.SID, conf.AUTH_TOKEN, conf.TO_NUMBER, conf.FROM_NUMBER)
 
